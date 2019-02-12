@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yootheri.functional.systems/sitemap.xml
